@@ -124,4 +124,23 @@ Selecting a quarter dynamically updates all dashboard visuals.
 
 ---
 
-# 📁 Repository Structure
+---
+
+# 🚀 Key Skills Demonstrated
+
+- Data Visualization
+- Business Intelligence Dashboard Design
+- Interactive Filtering with Slicers
+- Map Visualization
+- Trend Analysis
+- Data Storytelling
+
+---
+
+# 🔮 Future Improvements
+
+- Add content rating analysis
+- Build director popularity insights
+- Add advanced DAX calculations
+- Create viewer engagement metrics
+
